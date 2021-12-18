@@ -1,2 +1,2 @@
-# PUBG_MOBILE
+# fater
 oyinlar haqidagi sayt
